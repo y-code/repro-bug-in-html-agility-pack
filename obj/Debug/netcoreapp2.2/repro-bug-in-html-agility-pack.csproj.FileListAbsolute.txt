@@ -1,0 +1,11 @@
+/Users/yas/Projects/repro-bug-in-html-agility-pack/bin/Debug/netcoreapp2.2/repro-bug-in-html-agility-pack.deps.json
+/Users/yas/Projects/repro-bug-in-html-agility-pack/bin/Debug/netcoreapp2.2/repro-bug-in-html-agility-pack.runtimeconfig.json
+/Users/yas/Projects/repro-bug-in-html-agility-pack/bin/Debug/netcoreapp2.2/repro-bug-in-html-agility-pack.runtimeconfig.dev.json
+/Users/yas/Projects/repro-bug-in-html-agility-pack/bin/Debug/netcoreapp2.2/repro-bug-in-html-agility-pack.dll
+/Users/yas/Projects/repro-bug-in-html-agility-pack/bin/Debug/netcoreapp2.2/repro-bug-in-html-agility-pack.pdb
+/Users/yas/Projects/repro-bug-in-html-agility-pack/obj/Debug/netcoreapp2.2/repro-bug-in-html-agility-pack.csprojAssemblyReference.cache
+/Users/yas/Projects/repro-bug-in-html-agility-pack/obj/Debug/netcoreapp2.2/repro-bug-in-html-agility-pack.AssemblyInfoInputs.cache
+/Users/yas/Projects/repro-bug-in-html-agility-pack/obj/Debug/netcoreapp2.2/repro-bug-in-html-agility-pack.AssemblyInfo.cs
+/Users/yas/Projects/repro-bug-in-html-agility-pack/obj/Debug/netcoreapp2.2/repro-bug-in-html-agility-pack.dll
+/Users/yas/Projects/repro-bug-in-html-agility-pack/obj/Debug/netcoreapp2.2/repro-bug-in-html-agility-pack.pdb
+/Users/yas/Projects/repro-bug-in-html-agility-pack/obj/Debug/netcoreapp2.2/repro-bug-in-html-agility-pack.csproj.CoreCompileInputs.cache
