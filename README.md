@@ -1,6 +1,6 @@
 # Reproduction code for a bug in html-agility-pack
 
-When server responses with invalid content encoding name, the following exception occurres inside html-agility-pack library.
+When server responses with invalid content encoding name in response header, the following exception occurres inside html-agility-pack library.
 
 ```
 System.ArgumentException: 'identity' is not a supported encoding name. For information on defining a custom encoding, see the documentation for the Encoding.RegisterProvider method.
